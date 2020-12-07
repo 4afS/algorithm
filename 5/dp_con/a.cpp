@@ -20,8 +20,6 @@ void chmax(T& a, T b) {
 
 using namespace std;
 
-int resolve(vector<vector<int>> abc, int pre) {}
-
 int main() {
   int N;
   cin >> N;
